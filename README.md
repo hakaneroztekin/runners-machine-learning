@@ -2,7 +2,7 @@
 Runner's Machine Learning is real-time movement recognition project. The project is resulted in classification of walking, running and squats with 96% success on our dataset. The project is continuum of [Runner's Android Application](https://github.com/hakaneroztekin/runners-android-app/).
 
 ## Tools & Techs Used
-**Software:** Python (keras, sklearn, matplotlib), Brackets, Anaconda, Socket.io, WebStorm
+**Software:** Python (keras, tensorflow, sklearn, matplotlib), Brackets, Anaconda, Socket.io, WebStorm
 
 **Algorithms:** Long Short Term Memory (LSTM) and Random Forest (RF). Support Vector Machines (SVM) are used before RF, but RF has chosen over SVM for its running speed. 
 
