@@ -3,13 +3,17 @@ Runner's Machine Learning is real-time movement recognition project. The project
 
 ## Tools & Techs Used
 **Software:** Python (keras, sklearn, matplotlib), Brackets, Anaconda, Socket.io, WebStorm
+
 **Algorithms:** Long Short Term Memory (LSTM) and Random Forest (RF). Support Vector Machines (SVM) are used before RF, but RF has chosen over SVM for its running speed. 
+
 **Hardware:** Bluno, soft sensors and microcontrollers
 
 ## Live Demo
 **Check it out here:** https://youtu.be/ZryvdvgoNlI
+![Alt text](https://img.youtube.com/vi/ZryvdvgoNlI/0.jpg)
+
 **Technical Demo:** https://youtu.be/O2oVdo0vo8A
-![Alt text](https://img.youtube.com/vi/xQhtbA6bWUA/0.jpg)
+![Alt text](https://img.youtube.com/vi/O2oVdo0vo8A/0.jpg)
 
 ## Project Poster
 **This project is selected among the best projects of the year.** Decision is made by the professors of our faculty after the presentations ([here](/Presentation.pptx) is mine) and then we've prepared project posters to present it to the company owners. You can access the project poster [here](/Poster.pptx). 
