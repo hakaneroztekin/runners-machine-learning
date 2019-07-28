@@ -10,9 +10,11 @@ Runner's Machine Learning is real-time movement recognition project. The project
 
 ## Live Demo
 **Check it out here:** https://youtu.be/ZryvdvgoNlI
+
 ![Alt text](https://img.youtube.com/vi/ZryvdvgoNlI/0.jpg)
 
 **Technical Demo:** https://youtu.be/O2oVdo0vo8A
+
 ![Alt text](https://img.youtube.com/vi/O2oVdo0vo8A/0.jpg)
 
 ## Project Poster
