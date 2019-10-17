@@ -1,5 +1,5 @@
-# Runner's Movement Recognition | Machine Learning
-Runner's Machine Learning is real-time movement recognition project. The project is resulted in classification of walking, running and squats with 96% success on our dataset. The project is continuum of [Runner's Android Application](https://github.com/hakaneroztekin/runners-android-app/).
+# Runner's Movement Classification | Machine Learning
+Runner's Machine Learning is real-time movement classification project. The project is resulted in classification of walking, running and squats with 96% success on our dataset. The project is continuum of [Runner's Android Application](https://github.com/hakaneroztekin/runners-android-app/).
 
 ## Tools & Techs Used
 **Software:** Python (keras, tensorflow, sklearn, matplotlib), Brackets, Anaconda, Socket.io, WebStorm
